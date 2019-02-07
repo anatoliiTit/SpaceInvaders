@@ -1,0 +1,18 @@
+E:\MVS projekty\GAME\MyGame\MyGame\MyGame\bin\Debug\MyGame.exe
+E:\MVS projekty\GAME\MyGame\MyGame\MyGame\bin\Debug\MyGame.pdb
+E:\MVS projekty\GAME\MyGame\MyGame\MyGame\obj\Debug\MyGame.Form1.resources
+E:\MVS projekty\GAME\MyGame\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+E:\MVS projekty\GAME\MyGame\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+E:\MVS projekty\GAME\MyGame\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+E:\MVS projekty\GAME\MyGame\MyGame\MyGame\obj\Debug\MyGame.exe
+E:\MVS projekty\GAME\MyGame\MyGame\MyGame\obj\Debug\MyGame.pdb
+E:\MVS projekty\GAME\MyGame\MyGame\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\Arek\Desktop\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\Arek\Desktop\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Arek\Desktop\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\Arek\Desktop\MyGame\MyGame\obj\Debug\MyGame.Form1.resources
+C:\Users\Arek\Desktop\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\Arek\Desktop\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+C:\Users\Arek\Desktop\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Arek\Desktop\MyGame\MyGame\obj\Debug\MyGame.exe
+C:\Users\Arek\Desktop\MyGame\MyGame\obj\Debug\MyGame.pdb
